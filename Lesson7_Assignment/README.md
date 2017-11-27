@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 27, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Kelsea Moore)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment uses jQuery to add effects to an application with less scripting code.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kelseamoore.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. jQuery is a library of commonly used JavaScript codes that allows developers to use less code for interactive web pages. 
+2. Elements in jQuery can be selected by using tags and CSS selectors.
+3. Traversing the DOM is a concept that allows a developer to select a specific element in the DOM using the different levels in the "tree." It uses syntax such as children, parents, siblings, first, last and next.
 
